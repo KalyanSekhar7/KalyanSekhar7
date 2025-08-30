@@ -1,8 +1,5 @@
 ![logo](https://github.com/KalyanSekhar7/KalyanSekhar7/blob/main/background%20banner.jpg)
-<h1 align="center">Hi , I'm Kalyan Sekhar</h1>
-<h3 align="center">A passionate Data Science Engineer</h3>
 <img align="right" alt="Data Science" width="250" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif">
-- 🌱 I’m currently learning **NLP , Docker**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kalyan-sekhar/**
 
